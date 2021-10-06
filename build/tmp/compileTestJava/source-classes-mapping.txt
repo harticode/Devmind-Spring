@@ -1,0 +1,15 @@
+com/emse/spring/faircorp/FaircorpApplicationTests.java
+ com.emse.spring.faircorp.FaircorpApplicationTests
+com/emse/spring/faircorp/dao/RoomDaoTest.java
+ com.emse.spring.faircorp.dao.RoomDaoTest
+com/emse/spring/faircorp/hello/GreetingServiceTest.java
+ com.emse.spring.faircorp.hello.GreetingServiceTest
+com/emse/spring/faircorp/hello/DummyUserServiceTest.java
+ com.emse.spring.faircorp.hello.DummyUserServiceTest
+ com.emse.spring.faircorp.hello.DummyUserServiceTest$DummyUserServiceTestConfig
+com/emse/spring/faircorp/dao/HeaterDaoTest.java
+ com.emse.spring.faircorp.dao.HeaterDaoTest
+com/emse/spring/faircorp/dao/BuildingDaoTest.java
+ com.emse.spring.faircorp.dao.BuildingDaoTest
+com/emse/spring/faircorp/dao/WindowDaoTest.java
+ com.emse.spring.faircorp.dao.WindowDaoTest
